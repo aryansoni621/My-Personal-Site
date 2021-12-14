@@ -1,2 +1,2 @@
 # My-Personal-Site
-In this project I've used html code and styling the site using css
+In this project I've used HTML code and styled the site using CSS
